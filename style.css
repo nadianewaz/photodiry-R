@@ -1,0 +1,135 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Playfair Display', serif;
+    line-height: 1.714;
+    color: #626262;
+}
+.background{
+   width: 100%;
+}
+h1, h2, h3, h4, h5, h6{
+    margin: 0 0 15px;
+    font-weight: 400;
+}
+.blog-meta, .blog-readmore-btn{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+.main-menu ul{
+    margin: 0%;
+    padding: 0%;
+}
+a{
+    text-decoration: none;
+}
+.main-menu ul li a{
+    display: block;
+    color: #626262;
+    padding: 50px 0;
+
+}
+.main-menu ul li{
+    display: inline-block;
+    padding-left: 80px;
+    list-style: none;
+}
+.logo{
+    padding: 50px 0;
+}
+.single-blog-item{
+    margin-bottom: 120px;
+}
+.single-blog-item h2{
+   margin: 20px 0 25px;
+}
+.blog-meta a{
+    color: #b4ac9f;
+}
+.blog-readmore-btn{
+    color: #b4ac9f;
+}
+.blog-readmore-btn:hover{
+    color: #b4ac9f;
+}
+.blog-box-content{
+    margin-bottom: 30px;
+}
+.blog-box-content p:last-child{
+    margin: 0%;
+}
+.form-img{
+    height: 20px;
+    width: 25px;
+}
+.news-letter-area{
+    background-color: #f0f0f0;
+    padding: 70px 0;
+    text-align: center;
+    margin-bottom: 120px;
+}
+.news-letter-area h2{
+   margin-bottom: 51px;
+}
+.news-letterform{
+    max-width: 360px;
+    margin: 0 auto;
+    border-bottom: 1px solid #000;
+    position: relative;
+}
+.news-letterform button{
+  position: absolute;
+  right: 0;
+  top: 0%;
+  padding: 10px;
+  border: none;
+}
+.news-letterform input[type="email"]{
+    border: none;
+    background-color: #f0f0f0;
+    padding: 10px;
+    width: 100%;
+    outline: none;
+}
+.load-more-btn{
+    display: inline-block;
+    border: 1px solid #626262;
+    color: #626262;
+    font-size: 20px;
+    padding: 15px 31px;
+}
+.load-more-btn:hover{
+   color: #626262;
+}
+.load-more-btn-wrapper{
+    margin-top: -30px;
+}
+.footer-area{
+    background-color: #f0f0f0;
+    padding: 35px 0;
+    margin-top: 90px;
+}
+.footer-area a{
+    color: black;
+}
+.footer-area li{
+    display: inline-block;
+    padding-right: 40px;
+}
+.footer-area ul{
+    margin: 0%;
+    padding: 0;
+    list-style: none;
+}
+.footer-area .links a{
+    padding-left: 15px;
+}
+.content-image{
+    height: 400px;
+    width: 420px;
+}
+.blog-featured-content{
+    margin-bottom: 30px;
+}
+.big-blog-box .blog-featured-content{
+    margin-bottom: 80px;
+}

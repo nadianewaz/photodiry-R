@@ -1,0 +1,27 @@
+
+/* medium */
+@media only screen and (min-width: 992) and (max-width:1200){
+    .main-menu ul li{
+    display: inline-block;
+    padding-left: 80px;
+    list-style: none;
+        
+    }
+    
+  }
+  
+  /* tablet */
+  @media only screen and (min-width: 768) and (max-width:991) {
+    
+  }
+  
+  /* Mobile */
+  @media only screen and (max-width: 767px) {
+    
+  } 
+  
+  /* wide mobile */
+  @media only screen and (min-width: 480) and (max-width:767) {
+    
+  } 
+  
